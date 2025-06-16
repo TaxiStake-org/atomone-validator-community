@@ -7,7 +7,7 @@ In order to verify the team members of your validator, please send a 0.01 ATONE 
 |-----------------------------------------------------------------|-------------------|---|---|---|---|---|---|
 |---|---|---|---|---|---|---|---|
 | Validator Name  | Validator Website | Validator Twitter Page | Region | GitHub Handles | E-mails | Discord Handles | Tx Hash |
-| TaxiStake   | https://taxistake.com/  |  https://x.com/TaxiStake | USA  | https://github.com/TaxiStake-org/  | validators@taxistake.com  | scoh.taxistake, grithaxe, con5cience |   |
+| TaxiStake   | https://taxistake.com/  |  https://x.com/TaxiStake | USA  | https://github.com/TaxiStake-org/  | validators@taxistake.com  | scoh.taxistake, grithaxe | 513B7D2EC088B5DD1168359F3E9C12726DAB9D0AD357DD329C1EB87DA17094F3 |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |
